@@ -14,7 +14,7 @@ first_appearance,
 characters,
  }) => {
 
-  const heroImagenUrl = `./heroes/${ id }.jpg`;
+  const heroImagenUrl = `./assets/heroes/${ id }.jpg`;
 
   // const charactersByHero = (<p>{characters}</p>);
   return (
